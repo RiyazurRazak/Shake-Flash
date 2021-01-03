@@ -17,7 +17,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Reference 
 
-<img src="https://res.cloudinary.com/dqf7aonc2/image/upload/v1609687742/Screenshot_1609687299_pnyfy2.png"></img>
-<img src="https://res.cloudinary.com/dqf7aonc2/image/upload/v1609687869/Screenshot_1609687304_bqd62z.png"></img>
+<img src="https://res.cloudinary.com/dqf7aonc2/image/upload/v1609687742/Screenshot_1609687299_pnyfy2.png" width="250px"></img>
+<img src="https://res.cloudinary.com/dqf7aonc2/image/upload/v1609687869/Screenshot_1609687304_bqd62z.png" width="250px"></img>
 
 
